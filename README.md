@@ -1,2 +1,2 @@
 # Smart-Contracts
-Collecting of smart contracts written for practice
+Collection of smart contracts written for practice
